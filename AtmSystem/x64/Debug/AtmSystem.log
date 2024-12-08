@@ -1,0 +1,5 @@
+﻿  AtmSystem.cpp
+D:\code\AtmSystem\AtmSystem\AtmSystem.cpp(195,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\code\AtmSystem\AtmSystem\AtmSystem.cpp(215,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\code\AtmSystem\AtmSystem\AtmSystem.cpp(815,10): warning C4129: 'W': unrecognized character escape sequence
+  AtmSystem.vcxproj -> D:\code\AtmSystem\x64\Debug\AtmSystem.exe
